@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MatrixCoder2025
 - 👀 Directions of Interest: The Theory and Application of Machine Learning
-- 📫 How to reach me ...blog:https://blog.csdn.net/m0_73882492?type=blog
+- 📫 How to reach me: blog:https://blog.csdn.net/m0_73882492?type=blog
 
 
 <!---
